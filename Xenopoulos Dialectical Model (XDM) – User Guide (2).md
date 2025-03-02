@@ -189,9 +189,8 @@ Synthesis Variance: 0.0087
   title        = {Xenopoulos Dialectical Model (XDM): The Formal-Dialectical Matrix of the World},  
   year         = {2024},  
   publisher    = {Zenodo},  
-  doi          = {10.5281/zenodo.14929817},  
-  url          = { https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git
-}  
+  doi          = {https://doi.org/10.5281/zenodo.14929816},  
+  url          = { https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git}  
 ```  
 
 ---
