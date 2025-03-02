@@ -3,7 +3,7 @@ Xenopoulos Dialectical Model (XDM) – The Formal-Dialectical Matrix of the Worl
 (Η Τυπικο-Διαλεκτική Μήτρα του Κόσμου)
 ________________________________________
 DOI:
-10.5281/zenodo.14929817 
+https://doi.org/10.5281/zenodo.14929816
 ________________________________________
 Authors
 •	Epameinondas Xenopoulos, Katerina Xenopoulos  orcid: 0009-0004-9057-7432
@@ -59,12 +59,12 @@ Cite This Work
   year         = {2024},
   publisher    = {Zenodo},
   version      = {1.0},
-  doi          = {10.5281/zenodo.14929817}
-  url          = {https://github.com/kxenopoulou/Xenopoulos-Dialectical-Model-XDM.git}
+  doi          = {https://doi.org/10.5281/zenodo.14929816}
+  url          = {https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git}
 }
 ________________________________________
 🚀 Connect
-•	GitHub: https://github.com/kxenopoulou/Xenopoulos-Dialectical-Model-XDM
+•	GitHub: https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git
 •	Email: katerinaxenopoulou@gmail.com
 ________________________________________
 ✨ A Final Thought
@@ -76,7 +76,7 @@ Xenopoulos Dialectical Model (XDM) – Η Τυπικο-Διαλεκτική Μή
 ---
 
 #### **DOI:**  
-`10.5281/zenodo.14929817 
+`https://doi.org/10.5281/zenodo.14929816 
 
 ---
 
@@ -160,15 +160,15 @@ N = F \otimes G = F \cdot (1 - G^2) + \alpha \cdot e^{-\beta G}
   year         = {2024},
   publisher    = {Zenodo},
   version      = {1.0},
-  doi          = {10.5281/zenodo.14929817 
-  url          = {https://github.com/kxenopoulou/Xenopoulos-Dialectical-Model-XDM}
-}
+  doi          = {https://doi.org/10.5281/zenodo.14929816}
+  url          = {https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git}
+
 ```  
 
 ---
 
 **🚀 Επικοινωνία / Connect**  
-- **GitHub**: [https://github.com/kxenopoulou/Xenopoulos-Dialectical-Model-XDM)  
+- **GitHub**: [https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git)  
 - **Email**: [katerinaxenopoulou@gmail.com](mailto:katerinaxenopoulou@gmail.com)  
 
 ---
