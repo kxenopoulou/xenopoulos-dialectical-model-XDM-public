@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the following metadata."
 title: "Mathematical Formalization of Dialectical Logic: The Xenopoulos Dialectical Model (XDM)"
 version: "1.0.0"
-doi: "https://zenodo.org/uploads/14929817"
+doi: ""https://doi.org/10.5281/zenodo.14929816}
 date-released: "025-02-28"
 authors:
   - family-names: "Xenopoulos"
@@ -20,7 +20,7 @@ keywords:
   - "economic analysis"
 license: "https://github.com/kxenopoulou/Xenopoulos_Dialectical_Model_License_XDML.md.git
  repository : ""https://github.com/kxenopoulou/xenopoulos-dialectical-model-XDM-public.git
-url: "https://zenodo.org/uploads/14929817"
+url: "https://doi.org/10.5281/zenodo.14929816}"
 references:
   - type: "book"
     authors:
